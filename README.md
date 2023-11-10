@@ -1,0 +1,2 @@
+# Weather-App
+"Experience the Weather App – your personal meteorological companion. Effortlessly stay ahead with real-time forecasts, detailed weather insights, and intuitive features. From hourly updates to extended forecasts, plan your day with precision. Seamlessly track weather conditions worldwide and never be caught off guard by nature's surprises. Your one-stop app for weather awareness, anytime, anywhere."
